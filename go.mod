@@ -1,1 +1,1 @@
-module "github.com/adameu/go-apack"
+module github.com/adameu/goapack

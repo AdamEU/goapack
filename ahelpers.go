@@ -1,4 +1,4 @@
-package "go-apack"
+package goapack
 
 import "fmt"
 import "os"

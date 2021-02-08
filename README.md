@@ -1,2 +1,2 @@
-# go-apack
-# adameu helper functions library
+# goapack
+adameu helper functions library
